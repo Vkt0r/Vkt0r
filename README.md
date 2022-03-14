@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am an iOS Infrastructure Engineer working on Build Systems, Packaging, CI/CD and Developer Tools.
+
 <!--
 **Vkt0r/Vkt0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
